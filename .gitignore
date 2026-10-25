@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and temporary files
+.cache/
+*.tmp
+validate_output.py
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Submission artifacts & logs
+output.csv
+log.txt
+*.zip
+*.tar.gz

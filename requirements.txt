@@ -1,0 +1,6 @@
+# Core dependencies
+pypdf>=3.0.0
+
+# Optional system tools:
+# - tesseract-ocr (for screenshot OCR)
+# - poppler-utils (pdftotext)
